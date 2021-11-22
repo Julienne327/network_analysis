@@ -1,0 +1,8 @@
+dash
+dash-bootstrap-components
+networkx
+numpy
+pandas
+plotly
+pygraphviz
+python-louvain
